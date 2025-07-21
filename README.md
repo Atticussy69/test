@@ -1,4 +1,5 @@
-# test
+***mermaid 
+flowchart TD
    A[Start] --> B{Is the applicant 18 years old or older?}
     B -- No --> Z[Not Eligible]
     B -- Yes --> C{Is the applicant medically fit?}
