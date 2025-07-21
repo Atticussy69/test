@@ -1,4 +1,4 @@
-***mermaid 
+***mermaid
 flowchart TD
    A[Start] --> B{Is the applicant 18 years old or older?}
     B -- No --> Z[Not Eligible]
